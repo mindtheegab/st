@@ -1,4 +1,4 @@
-# Luke's build of st - the simple (suckless) terminal
+# Fork Luke's build of st - the simple (suckless) terminal by Mindtheegab
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
 features that make it literally the best terminal emulator ever:
@@ -28,7 +28,8 @@ features that make it literally the best terminal emulator ever:
   system font.
 
 ## Other st patches
-
++ Anysize(allows correct size outside of dwm)
++ Removed window decorations
 + Boxdraw
 + Ligatures
 + font2
