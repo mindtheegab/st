@@ -40,6 +40,10 @@ features that make it literally the best terminal emulator ever:
 You should have xlib header files and libharfbuzz build files installed.
 
 ```
+apt install libharfbuzz-dev
+```
+
+```
 git clone https://github.com/LukeSmithxyz/st
 cd st
 sudo make install
